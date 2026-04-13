@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80" width="800" height="80">
+  <style>
+    .c { font: 900 52px Impact, Arial Black, sans-serif; text-anchor: middle; dominant-baseline: middle; }
+    @keyframes wave { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-12px); } }
+    @keyframes hue { 0% { fill: #E24B4A; } 14% { fill: #EF9F27; } 28% { fill: #639922; } 42% { fill: #1D9E75; } 57% { fill: #378ADD; } 71% { fill: #534AB7; } 85% { fill: #D4537E; } 100% { fill: #E24B4A; } }
+    .l1 { animation: wave 1.2s ease-in-out infinite 0.0s, hue 3s linear infinite 0.0s; }
+    .l2 { animation: wave 1.2s ease-in-out infinite 0.15s, hue 3s linear infinite 0.4s; }
+    .l3 { animation: wave 1.2s ease-in-out infinite 0.30s, hue 3s linear infinite 0.8s; }
+    .l4 { animation: wave 1.2s ease-in-out infinite 0.45s, hue 3s linear infinite 1.2s; }
+    .l5 { animation: wave 1.2s ease-in-out infinite 0.60s, hue 3s linear infinite 1.6s; }
+    .l6 { animation: wave 1.2s ease-in-out infinite 0.75s, hue 3s linear infinite 2.0s; }
+    .l7 { animation: wave 1.2s ease-in-out infinite 0.90s, hue 3s linear infinite 2.4s; }
+    .l8 { animation: wave 1.2s ease-in-out infinite 1.05s, hue 3s linear infinite 2.8s; }
+  </style>
+  <text class="c l1" x="40"  y="42">I</text>
+  <text class="c l2" x="100" y="42">N</text>
+  <text class="c l3" x="160" y="42">S</text>
+  <text class="c l4" x="220" y="42">A</text>
+  <text class="c l5" x="280" y="42">N</text>
+  <text class="c l6" x="340" y="42">I</text>
+  <text class="c l7" x="400" y="42">T</text>
+  <text class="c l8" x="460" y="42">Y</text>
+</svg>
