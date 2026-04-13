@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80" width="800" height="80">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 80" width="500" height="80">
   <style>
     .c { font: 900 52px Impact, Arial Black, sans-serif; text-anchor: middle; dominant-baseline: middle; }
     @keyframes wave { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-12px); } }
