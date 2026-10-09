@@ -1,9 +1,5 @@
 Obsessed with obsession
 
-<div align="center">
-  <img src="/img/letter.svg" width="100%">
-</div>
-
 Nothing to think except for exceptions
 
 <div align="center">
