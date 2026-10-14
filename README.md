@@ -1,4 +1,4 @@
-## Hi code 👋
+## Hi for (;;); 👋
 <div align="center">
   <img src="/img/cat.gif" width="100%">
 </div>
