@@ -1,12 +1,9 @@
-Obsessed with obsession
-
-Nothing to think except for exceptions
-
+## Hi code 👋
 <div align="center">
   <img src="/img/cat.gif" width="100%">
 </div>
 
-## Hi there 👋
+
 
 <table>
   <tr>
